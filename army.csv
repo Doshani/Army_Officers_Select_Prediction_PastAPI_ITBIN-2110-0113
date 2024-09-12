@@ -1,0 +1,228 @@
+Age,Gender,OL,AL,output
+10,1,0,0,Not Select
+14,1,0,1,Not Select
+17,1,1,0,Not Select
+16,0,0,1,Not Select
+27,1,1,1,Select
+57,1,1,0,Not Select
+35,1,1,1,Select
+58,1,1,0,Not Select
+25,1,1,1,Select
+24,1,1,1,Select
+59,1,0,0,Not Select
+60,1,0,0,Not Select
+27,1,1,1,Select
+19,1,1,1,Select
+21,1,1,1,Select
+61,1,0,0,Not Select
+62,1,1,0,Not Select
+30,1,1,1,Select
+63,1,0,0,Not Select
+64,1,0,1,Not Select
+65,1,0,0,Not Select
+30,1,1,1,Select
+66,1,1,1,Not Select
+67,1,1,0,Not Select
+21,1,1,1,Select
+19,1,1,1,Select
+33,0,1,1,Select
+68,0,0,0,Not Select
+69,1,0,0,Not Select
+18,1,1,1,Select
+34,1,1,1,Select
+1,1,0,0,Not Select
+2,0,0,0,Not Select
+3,1,0,0,Not Select
+4,1,0,0,Not Select
+5,1,0,0,Not Select
+6,0,0,0,Not Select
+7,1,0,0,Not Select
+8,1,0,0,Not Select
+9,1,0,0,Not Select
+10,0,0,0,Not Select
+11,1,0,0,Not Select
+12,1,0,0,Not Select
+13,1,0,0,Not Select
+14,1,0,0,Not Select
+15,0,0,0,Not Select
+16,1,0,0,Not Select
+17,0,0,0,Not Select
+18,0,1,1, Select
+18,1,0,1, Select
+22,0,0,0,Not Select
+26,1,1,0,Not Select
+28,1,1,0,Not Select
+58,1,1,1,Select
+42,1,1,1,Select
+21,0,0,0,Not Select
+41,1,1,1,Select
+31,1,1,0,Not Select
+44,1,1,1,Select
+15,0,0,1,Not Select
+17,0,0,0,Not Select
+39,1,1,1,Select
+36,1,1,1,Select
+11,0,0,0,Not Select
+42,1,1,1,Select
+12,1,1,0,Not Select
+38,1,1,1,Select
+54,1,1,1,Select
+36,1,0,0,Not Select
+37,1,1,0,Not Select
+38,1,1,0,Not Select
+39,1,1,0,Not Select
+22,1,1,1,Select
+40,0,0,0,Not Select
+41,0,0,0,Not Select
+42,0,0,0,Not Select
+21,0,1,1,Select
+43,1,1,0,Not Select
+44,1,1,0,Not Select
+45,0,0,0,Not Select
+46,0,0,0,Not Select
+47,0,0,0,Not Select
+35,1,1,1,Select
+48,0,0,0,Not Select
+27,1,1,1,Select
+49,1,1,0,Not Select
+35,1,1,1,Select
+50,1,1,0,Not Select
+23,1,1,1,Select
+51,0,0,0,Not Select
+52,0,0,0,Not Select
+53,1,1,0,Not Select
+22,1,1,1,Select
+30,1,1,1,Select
+54,0,0,0,Not Select
+20,1,1,1,Select
+55,0,0,0,Not Select
+56,0,0,0,Not Select
+57,0,0,0,Not Select
+69,1,0,0,Not Select
+70,1,0,0,Not Select
+71,1,0,0,Not Select
+72,1,0,0,Not Select
+73,1,0,0,Not Select
+74,1,0,0,Not Select
+75,1,0,0,Not Select
+76,1,0,0,Not Select
+77,1,0,0,Not Select
+78,1,0,0,Not Select
+79,1,0,0,Not Select
+80,1,0,0,Not Select
+81,1,0,0,Not Select
+82,1,0,0,Not Select
+83,1,0,0,Not Select
+84,1,0,0,Not Select
+85,1,0,0,Not Select
+86,1,0,0,Not Select
+87,1,0,0,Not Select
+88,1,0,0,Not Select
+89,1,0,0,Not Select
+90,1,0,0,Not Select
+91,1,0,0,Not Select
+92,1,0,0,Not Select
+93,1,0,0,Not Select
+94,1,0,0,Not Select
+95,1,0,0,Not Select
+96,1,0,0,Not Select
+97,1,0,0,Not Select
+98,1,0,0,Not Select
+99,0,0,0,Not Select
+100,0,0,0,Not Select
+101,0,0,0,Not Select
+102,0,0,0,Not Select
+103,0,0,0,Not Select
+104,0,0,0,Not Select
+105,0,0,0,Not Select
+106,0,0,0,Not Select
+107,0,0,0,Not Select
+108,0,0,0,Not Select
+109,0,0,0,Not Select
+110,0,0,0,Not Select
+36,1,1,1,Not Select
+37,1,1,1,Not Select
+38,1,1,1,Not Select
+39,1,1,1,Not Select
+40,1,1,1,Not Select
+41,1,1,1,Not Select
+42,1,1,1,Not Select
+43,1,1,1,Not Select
+44,1,1,1,Not Select
+45,1,1,1,Not Select
+46,1,1,1,Not Select
+47,1,1,1,Not Select
+48,1,1,1,Not Select
+49,1,1,1,Not Select
+50,1,1,1,Not Select
+51,1,1,1,Not Select
+52,1,1,1,Not Select
+53,1,1,1,Not Select
+54,1,1,1,Not Select
+55,1,1,1,Not Select
+56,1,1,1,Not Select
+57,1,1,1,Not Select
+58,1,1,1,Not Select
+59,1,1,1,Not Select
+60,1,1,1,Not Select
+61,1,1,1,Not Select
+62,1,1,1,Not Select
+63,1,1,1,Not Select
+64,1,1,1,Not Select
+65,1,1,1,Not Select
+66,1,1,1,Not Select
+67,1,1,1,Not Select
+68,1,1,1,Not Select
+69,1,1,1,Not Select
+70,1,1,1,Not Select
+71,1,1,1,Not Select
+72,1,1,1,Not Select
+73,1,1,1,Not Select
+74,1,1,1,Not Select
+75,1,1,1,Not Select
+76,1,1,1,Not Select
+77,1,1,1,Not Select
+78,1,1,1,Not Select
+79,1,1,1,Not Select
+80,1,1,1,Not Select
+81,1,1,1,Not Select
+82,1,1,1,Not Select
+83,1,1,1,Not Select
+84,1,1,1,Not Select
+85,1,1,1,Not Select
+86,1,1,1,Not Select
+87,1,1,1,Not Select
+88,1,1,1,Not Select
+89,1,1,1,Not Select
+90,1,1,1,Not Select
+91,1,1,1,Not Select
+92,1,1,1,Not Select
+93,1,1,1,Not Select
+94,1,1,1,Not Select
+95,1,1,1,Not Select
+96,1,1,1,Not Select
+97,1,1,1,Not Select
+98,1,1,1,Not Select
+99,1,1,1,Not Select
+100,1,1,1,Not Select
+101,1,1,1,Not Select
+102,1,1,1,Not Select
+103,1,1,1,Not Select
+1,1,1,1,Not Select
+2,1,1,1,Not Select
+3,1,1,1,Not Select
+4,1,1,1,Not Select
+5,1,1,1,Not Select
+6,1,1,1,Not Select
+7,1,1,1,Not Select
+8,1,1,1,Not Select
+9,1,1,1,Not Select
+10,1,1,1,Not Select
+11,1,1,1,Not Select
+12,1,1,1,Not Select
+13,1,1,1,Not Select
+14,1,1,1,Not Select
+15,1,1,1,Not Select
+16,1,1,1,Not Select
+17,1,1,1,Not Select
+18,1,1,1,Not Select
