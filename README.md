@@ -1,7 +1,7 @@
 # Army_Officers_Select_Prediction_PastAPI_ITBIN-2110-0113
 
 To write an effective Medium article on “How to Deploy a Army-Officers-Select-Prediction-FastAPI Machine Learning Application in Heroku Web Services,” you should follow a structured approach. Here’s a suggested outline with instructions for each section:
-
+ 
  Introduction
 Start by introducing the topic. Explain what the readers will learn from this article.
 Mention that you will cover everything from training the machine learning model to deploying it using FastAPI and Heroku.
